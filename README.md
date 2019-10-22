@@ -1,4 +1,4 @@
-Mopidy Skill
+Mopidy Skill DEPRECATED
 =====================
 
 A small skill for playing music with the help of the mopidy music server. Currently the skill supports spotify, local music and google music. The skill is setup to play albums, playlists genres or artists.
